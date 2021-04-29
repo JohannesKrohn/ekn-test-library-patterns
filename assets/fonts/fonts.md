@@ -1,0 +1,1 @@
+Web fonts can be added in this folder
