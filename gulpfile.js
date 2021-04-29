@@ -13,7 +13,7 @@ function assets() {
             access_token: const_access_token,
             project: const_project,
             cwd: './assets',
-            baseUrl: 'https://eon.frontify.com'
+            baseUrl: baseUrl
         },
         [
             'fonts/**/*.*',
