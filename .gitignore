@@ -2,3 +2,4 @@
 /assets/img/**/*.*
 !/assets/img
 .idea/
+.DS_Store

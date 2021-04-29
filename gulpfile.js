@@ -1,8 +1,8 @@
 const   gulp = require('gulp'),
         frontifyApi = require('@frontify/frontify-api');
 
-const   const_access_token = 'XSQwvq8jdunmejg4CmTvgDaxLrDhTUxjFEBRr1vG',
-        const_project = '411',
+const   const_access_token = 'b653gyHiLLeSwh3S2sRkZw4jo2Q6Frf6JjAANt11',
+        const_project = '416',
         baseUrl = 'https://brand.eon.com';
 
 
