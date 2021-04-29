@@ -28,7 +28,7 @@ function assets() {
 }
 // Watch for assets
 function watch() {
-    gulp.watch("./assets/img/**/*", assets);
+    gulp.watch("./assets/**/*", assets);
 }
 
 const frontify = gulp.series(assets, watch);
